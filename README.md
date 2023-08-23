@@ -9,24 +9,6 @@ year: 2023
 
 ---
 
-
-
-### Mentors
-
-- Vartika Rao
-
-- Aman Raj
-
-### Members
-
-- Smruthi Bhat
-
-- Krishna Tulsyan
-
-- Chirag S
-
-- Bhuvanesh Singla
-
 ## Aim
 
 This project aims to build a deep-learning model to classify human facial expressions.
